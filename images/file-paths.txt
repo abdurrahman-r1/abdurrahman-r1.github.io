@@ -1,9 +1,9 @@
 project/
 ├── index.html
-├── styles.css          (Cleaned CSS from before)
-├── script.js           (Your JS code)
+├── styles.css          
+├── script.js           
 ├── images/
 │   └── comfort.png
-└── fonts/              (if using custom Clarkson fonts)
+└── fonts/              
     ├── clarkson-400.woff2
     └── clarkson-500.woff2

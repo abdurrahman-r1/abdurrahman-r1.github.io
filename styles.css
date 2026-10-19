@@ -21,9 +21,8 @@
   font-display: swap;
 }
 
-/* BODY & BASE STYLES (rest of your CSS continues here...)*/
 :root {
-  --bg: #fff;
+  --bg: #eee1e1;
   --text: #000;
   --accent: #1a73e8;
   --section-max-width: 960px;
@@ -36,7 +35,6 @@ body.dark {
   --accent: #7ab4ff;
 }
 
-/* Continue with all existing CSS from the previous cleaned version */
 html,
 body {
   height: 100%;
